@@ -15,6 +15,9 @@ In this sample app i have used SEMBAST (Simple Embedded Application Store) which
 - bool
 - null
 
+### Additional Resources
+https://pub.dartlang.org/packages/sembast
+
 ### Screenshot
 
 ![screenshot](https://github.com/zubairehman/SEMBAST-Example/blob/master/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%20X%CA%80%20-%202019-04-16%20at%2014.25.53.png)
