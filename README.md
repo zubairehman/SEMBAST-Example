@@ -1,5 +1,7 @@
 # SEMBAST Sample App
 
+![banner](https://github.com/zubairehman/SEMBAST-Example/blob/master/screenshots/sembast-block.png)
+
 A sample app to show the use of SEMBAST, yet another NoSQL persistent store database solution for single process io applications.
 
 Persistently storing data in Flutter is not one of the easiest experiences if you're just starting out. If you want to move beyond simple "Preferences", which are only key - value pairs, you are probably looking at a library like SQFLite. The problem with this library is that it's very low level. What about NoSQL in Flutter?
