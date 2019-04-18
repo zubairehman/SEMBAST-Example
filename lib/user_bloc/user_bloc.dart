@@ -21,7 +21,7 @@ class UserBloc extends Bloc<UserEvent, UserState> {
     UserEvent event,
   ) async* {
     if (event is LoadUsers) {
-      // Indicating that fruits are being loaded - display progress indicator.
+      // Indicating that users are being loaded - display progress indicator.
       yield UsersLoading();
       yield* _reloadUsers();
     } else if (event is AddRandomUser) {
